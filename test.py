@@ -1,2 +1,2 @@
 print('Python is fun')
-print('Python is cool')
+print('Python is not cool it is stressful')
